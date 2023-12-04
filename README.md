@@ -367,7 +367,7 @@ $ sudo xbps-install -Syv ripgrep
 
 If you're a **Rust programmer**, ripgrep can be installed with `cargo`.
 
-* Note that the minimum supported version of Rust for ripgrep is **1.70.0**,
+* Note that the minimum supported version of Rust for ripgrep is **1.72.0**,
   although ripgrep may work with older versions.
 * Note that the binary may be bigger than expected because it contains debug
   symbols. This is intentional. To remove debug symbols and therefore reduce
